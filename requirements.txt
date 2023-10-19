@@ -7,4 +7,5 @@ catboost
 xgboost
 ipywidgets
 dill
+flask
 #-e .
